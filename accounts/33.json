@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glowing-service-290807",
+  "private_key_id": "e897a34dfa0ea25454d9a6c26c9ddb6a4253e0c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAHBN6xT17R/RU\nhWmCM/cnCO/Ov361uP913bYpob6gCOdJTM6Jafn8qMPleB4o5WQuqAaCUvP4SiUQ\n7dudQ0CiSiMe+G/77VZFxpqwg1hs/m9d0SMmdYkv0DyrRoxipvy8NoqnBgZpyN0h\nLW4v6kvH/dHw3UE+blnVDFza/sL9R6SaIt241Tuw/A//r1b4JO4g9BxStrLMTdCe\n1KUqv8weiXY71uyY5MN6ZpF128WqFgmj6alqpI40AYWdHTAEGmOzocEod37fGNJ7\nntNrK/EmgV0SraDWY49zvnIjP7WjUIQ6JH7JlcJUAj9QlACFYN53V8K/Qlz1kAxq\nfMuyKdYhAgMBAAECggEAAwFpcVs0vZkUBq695mVkW2wrjsoui/6mggA/i2YSOLgc\n8LfStyIFIQWdp3lWLPT+SM/Uhr1QH3E/BFVZUUv6HtPeuetAesI1PmMXnFV4uJ9Q\nLBlDldRiyqCFE3enhntW8sWebJOmvejQY1aN7dJaQEkte7mFbdntfjya1wsDb1GU\nsT41PCTogrrCl2mHyzqgz0oZMswUc4j2SGe0Vdp0Nu0srr+PXIBIRD0OyOg/rT08\nPK6iyPEMcXOXJxdEsDGBYznbkAq0BE0ztTXe3NBDYxaU4jQdDBerwIKn1Kh9OEj5\n6drEChxFCriHTsiKIjlsDSkmHAl0qMzRJQJR2tBZUQKBgQD6hEiEH8Ko6IScRBnp\nqM0XBwtEhng/iJauaAEX1H/m5Ji3wd9EJjX8icgCZiQFxiq1mCES0OKQeGh3pfwj\ndFeHrSt6CQJxfsRC+jPdHQ8SyVNpVLmbisSNyODi0YinbOylWbN5VOHAOgdUjM/b\ns//9HNGTGzzv0vmZCOL12g1S0QKBgQDEUIV625+Sm7TPDpZjzdtRewbaufai7Lk5\nL8qs3DVsUUQwHZ5utbeW6wuhx9EyKzGShJEW6rIWU4UN248mka3VvbZzl0y23GnX\n60M2rTWdaABofWVkC1oiOJT5TtuGDYS7Yuq8TKFeeEd30YVmtt4CpkyBRVhRX1QI\nt7vbZb0CUQKBgHO6FlHK5j7nIxOZNitFynB/1YmzYOtgqtMowpCCnw9HvPDug7hU\nuo3ODHJnQu7T67j17RlnG7LHnOLg78hlH2ZS7gmzDcjmWb3jHYBgwyzXikvXUuLy\nyPgCuzisuSc2319HP+yl9J+7btV1MzR4Q6Jm5L3DUHQtjxZOD6KpN4xxAoGAWOca\nO7QgBLXM4QP7KUF9c93iEcWrosbPbs1s3HFxJBd9aMjRCdPzSz4wa1hhLXYQIgk0\n54rrkV7LX6YxosbQUX5zlM9M53bT2/tn2egA4sLJhIhdFTxq2hqDpI+IrKGMnYvD\nP/j4Dx8rRmC1J/niepKzDMvJnjgshzIlucrOGLECgYEAsJghJsfRImaMwDevZ+rK\nhZUDy9bLmWtOIzybENG2v7QDSlALVcCBPBJA9ml+gRtiA5V2W2k5g/8BnjxMKRzM\ne8+CgvZdlIc0o6EJMDOd/xQJqNc0nmGCGCcy0D3bKqFJLpgmzsmFZEdjp2R8B55L\nh+DOMxP3beTfLoPWX8tjOgw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-zgs002lujx5vzvg5p5rrj0cfjo@glowing-service-290807.iam.gserviceaccount.com",
+  "client_id": "113674807725122815339",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-zgs002lujx5vzvg5p5rrj0cfjo%40glowing-service-290807.iam.gserviceaccount.com"
+}
